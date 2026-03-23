@@ -1,4 +1,4 @@
-import * as React from 'react';
+import * as React from 'react'; 
 import { useDispatch } from 'react-redux';
 import { underControl } from '../redux/userRelated/userSlice';
 import { underStudentControl } from '../redux/studentRelated/studentSlice';
