@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const ErrorPage = () => { 
     return (
-        <Container>
+        <Container> 
             <Content>
                 <Heading>Oops, something went wrong</Heading>
                 <Text>
