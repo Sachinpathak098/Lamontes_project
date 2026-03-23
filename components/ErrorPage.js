@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const ErrorPage = () => {
+const ErrorPage = () => { 
     return (
         <Container>
             <Content>
