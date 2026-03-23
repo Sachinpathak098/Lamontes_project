@@ -1,7 +1,7 @@
 // import React from "react"; 
 // import { BarChart, Bar, XAxis, YAxis, Tooltip } from "recharts";
 
-// const chartData = [
+// const chartData = [ 
 //     {
 //         name: "Amphibians",
 //         value: 2488,
