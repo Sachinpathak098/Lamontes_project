@@ -4,7 +4,7 @@ const complainSchema = new mongoose.Schema({
     user: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'student',
-        required: true
+        required: true 
     },
     date: {
         type: Date,
