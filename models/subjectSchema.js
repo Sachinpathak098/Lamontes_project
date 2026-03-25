@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const subjectSchema = new mongoose.Schema({
     subName: {
-        type: String,
+        type: String, 
         required: true,
     },
     subCode: {
